@@ -1,0 +1,11 @@
+E:\Vs_repo\C Sharp Music\C Sharp Music\bin\Debug\C Sharp Music.exe.config
+E:\Vs_repo\C Sharp Music\C Sharp Music\bin\Debug\C Sharp Music.exe
+E:\Vs_repo\C Sharp Music\C Sharp Music\bin\Debug\C Sharp Music.pdb
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C Sharp Music.csproj.AssemblyReference.cache
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C Sharp Music.csproj.SuggestedBindingRedirects.cache
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C_Sharp_Music.Form1.resources
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C_Sharp_Music.Properties.Resources.resources
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C Sharp Music.csproj.GenerateResource.cache
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C Sharp Music.csproj.CoreCompileInputs.cache
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C Sharp Music.exe
+E:\Vs_repo\C Sharp Music\C Sharp Music\obj\Debug\C Sharp Music.pdb
